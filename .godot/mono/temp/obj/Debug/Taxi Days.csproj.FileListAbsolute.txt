@@ -1,0 +1,18 @@
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\bin\Debug\Taxi Days.deps.json
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\bin\Debug\Taxi Days.runtimeconfig.json
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\bin\Debug\Taxi Days.dll
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\bin\Debug\Taxi Days.pdb
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.csproj.AssemblyReference.cache
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.GeneratedMSBuildEditorConfig.editorconfig
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.AssemblyInfoInputs.cache
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.AssemblyInfo.cs
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.csproj.CoreCompileInputs.cache
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.sourcelink.json
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.csproj.Up2Date
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.dll
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\refint\Taxi Days.dll
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.pdb
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\Taxi Days.genruntimeconfig.cache
+D:\Godot\Godot Projects\Taxi Days\.godot\mono\temp\obj\Debug\ref\Taxi Days.dll

@@ -1,0 +1,9 @@
+res://Assets/Dialogic/Styles/Default Style.tres
+res://Assets/Dialogic/Timeline/Dia 1/Dia 1 - Ligação da Mãe.dtl
+res://Assets/Scenes/MainScene.tscn
+res://MainMenu/Menu.tscn
+res://MainMenu/ProjectPreview.tscn
+res://Assets/Dialogic/Menu/visual_novel_main.tscn
+res://VisualNovel/Menu/MainMenu.gd
+res://MainMenu/Menu.gd
+res://Test/MainMenu/Menu.tscn
