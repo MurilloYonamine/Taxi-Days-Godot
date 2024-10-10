@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Taxi Days"
-run/main_scene="res://Assets/Dialogic/Menu/visual_novel_main.tscn"
+run/main_scene="res://assets/scenes/main_menu.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
@@ -22,17 +22,29 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 [dialogic]
 
 directories/dch_directory={
-"Joseph": "res://Assets/Dialogic/Character/Joseph.dch",
-"Luana": "res://Assets/Dialogic/Character/Luana.dch",
-"Mãe do Taxista": "res://Assets/Dialogic/Character/Mãe do Taxista.dch",
-"Taxista": "res://Assets/Dialogic/Character/Taxista.dch",
-"Thiago": "res://Assets/Dialogic/Character/Thiago.dch"
+"Claire": "res://Smartphone/Characters/Claire.dch",
+"Joseph": "res://assets/Dialogic/Character/Joseph.dch",
+"Laurey": "res://Smartphone/Characters/Laurey.dch",
+"Luana": "res://assets/Dialogic/Character/Luana.dch",
+"Mãe do Taxista": "res://assets/Dialogic/Character/Mãe do Taxista.dch",
+"Otto": "res://Smartphone/Characters/Otto.dch",
+"Taxista": "res://assets/Dialogic/Character/Taxista.dch",
+"Thiago": "res://assets/Dialogic/Character/Thiago.dch",
+"character/Joseph": "res://assets/dialogic/character/Joseph.dch",
+"character/Luana": "res://assets/dialogic/character/Luana.dch",
+"character/Mãe do Taxista": "res://assets/dialogic/character/Mãe do Taxista.dch",
+"character/Taxista": "res://assets/dialogic/character/Taxista.dch",
+"character/Thiago": "res://assets/dialogic/character/Thiago.dch"
 }
 directories/dtl_directory={
-"Dia 1 - Ligação da Mãe": "res://Assets/Dialogic/Timeline/Dia 1/Dia 1 - Ligação da Mãe.dtl"
+"Claire": "res://Smartphone/Timelines/Claire.dtl",
+"Dia 1 - Ligação da Mãe": "res://assets/Dialogic/Timeline/Dia 1/Dia 1 - Ligação da Mãe.dtl",
+"Dia 1/Dia 1 - Ligação da Mãe": "res://assets/dialogic/timeline/Dia 1/Dia 1 - Ligação da Mãe.dtl",
+"Laurey": "res://Smartphone/Timelines/Laurey.dtl",
+"Otto": "res://Smartphone/Timelines/Otto.dtl"
 }
 glossary/default_case_sensitive=true
-layout/style_list=["res://Assets/Dialogic/Styles/Default Style.tres"]
+layout/style_list=["res://assets/Dialogic/Styles/Default Style.tres", "res://VisualNovel/Assets/UI/VisualNovelStyle.tres"]
 layout/default_style="res://Assets/Dialogic/Styles/Default Style.tres"
 variables={}
 extensions_folder="res://addons/dialogic_additions"
@@ -62,6 +74,11 @@ text/autopauses={}
 [dotnet]
 
 project/assembly_name="Taxi Days"
+
+[editor]
+
+naming/node_name_casing=2
+naming/script_name_casing=2
 
 [editor_plugins]
 

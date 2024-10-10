@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://dai8m6meqc156"
-path="res://.godot/imported/Roboto-MediumItalic.ttf-de8b6014554207cf53f3253f5e115dcf.fontdata"
+path="res://.godot/imported/Roboto-MediumItalic.ttf-9b91cb80eec5de7d769900c781db99e4.fontdata"
 
 [deps]
 
-source_file="res://Assets/Fonts/Roboto/Roboto-MediumItalic.ttf"
-dest_files=["res://.godot/imported/Roboto-MediumItalic.ttf-de8b6014554207cf53f3253f5e115dcf.fontdata"]
+source_file="res://assets/fonts/roboto/Roboto-MediumItalic.ttf"
+dest_files=["res://.godot/imported/Roboto-MediumItalic.ttf-9b91cb80eec5de7d769900c781db99e4.fontdata"]
 
 [params]
 

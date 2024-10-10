@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c1perjgrkwahn"
-path="res://.godot/imported/audioOn.png-5fa69c400162146c1e43420df2361931.ctex"
+uid="uid://ddkl7w8jt6kav"
+path="res://.godot/imported/audioOn.png-12a0427f0bc68eaee204f424d2d29d18.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Graphics/UI/audioOn.png"
-dest_files=["res://.godot/imported/audioOn.png-5fa69c400162146c1e43420df2361931.ctex"]
+source_file="res://assets/graphics/ui/audioOn.png"
+dest_files=["res://.godot/imported/audioOn.png-12a0427f0bc68eaee204f424d2d29d18.ctex"]
 
 [params]
 

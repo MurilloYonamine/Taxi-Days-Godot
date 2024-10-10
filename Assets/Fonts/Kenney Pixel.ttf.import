@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cs0a2imsxi7iy"
-path="res://.godot/imported/Kenney Pixel.ttf-3ea0b130f9506777e47ca30221d8aed9.fontdata"
+path="res://.godot/imported/Kenney Pixel.ttf-d1a01c1c143d03296ff1b1fcb1faa465.fontdata"
 
 [deps]
 
-source_file="res://Assets/Fonts/Kenney Pixel.ttf"
-dest_files=["res://.godot/imported/Kenney Pixel.ttf-3ea0b130f9506777e47ca30221d8aed9.fontdata"]
+source_file="res://assets/fonts/Kenney Pixel.ttf"
+dest_files=["res://.godot/imported/Kenney Pixel.ttf-d1a01c1c143d03296ff1b1fcb1faa465.fontdata"]
 
 [params]
 

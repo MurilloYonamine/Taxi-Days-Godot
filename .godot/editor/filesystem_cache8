@@ -1,8 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728518993
+::res://::1728589007
 default_bus_layout.tres::AudioBusLayout::-1::1711487075::0::1::::<><>::
+Dialogic Logo.svg::CompressedTexture2D::8594930294663568487::1711487075::1728588304::1::::<><>::
 export_presets.cfg::TextFile::-1::1711487075::0::1::::<><>::
-icon.png::CompressedTexture2D::9132052431505023316::1711487075::1728518773::1::::<><>::
+icon.png::CompressedTexture2D::1503864136578171007::1711487075::1728519401::1::::<><>::
 icon.svg::CompressedTexture2D::5526571263162487766::1728509307::1728515542::1::::<><>::
 ::res://addons/::1728515571
 ::res://addons/dialogic/::1728515574
@@ -604,327 +605,103 @@ timeline.gd::GDScript::-1::1725480590::0::1::::DialogicTimeline<>Resource<>::
 TimelineResourceLoader.gd::GDScript::-1::1725480590::0::1::::DialogicTimelineFormatLoader<>ResourceFormatLoader<>::
 TimelineResourceSaver.gd::GDScript::-1::1725480590::0::1::::DialogicTimelineFormatSaver<>ResourceFormatSaver<>::
 ::res://addons/dialogic/test-project/::1725480590
-::res://Assets/::1728512620
-::res://Assets/Audio/::1728512165
-::res://Assets/Dialogic/::1728517775
-::res://Assets/Dialogic/Character/::1728515699
+::res://assets/::1728585035
+::res://assets/audio/::1728512165
+::res://assets/dialogic/::1728588104
+::res://assets/dialogic/character/::1728515699
 Joseph.dch::Resource::-1::1728515699::0::1::::<><>::
 Luana.dch::Resource::-1::1728512774::0::1::::<><>::
 Mãe do Taxista.dch::Resource::-1::1728512820::0::1::::<><>::
 Taxista.dch::Resource::-1::1728512796::0::1::::<><>::
 Thiago.dch::Resource::-1::1728512780::0::1::::<><>::
-::res://Assets/Dialogic/Menu/::1728518921
-button_click.gdshader::Shader::-1::1711487075::0::1::::<><>::
-button_click_overlay.tres::ShaderMaterial::-1::1728518921::0::1::::<><>::res://VisualNovel/Menu/button_click.gdshader
-IngameUI.gd::GDScript::-1::1711487075::0::1::::<>CanvasLayer<>::
-LoadMenu.gd::GDScript::-1::1711487075::0::1::::<>VBoxContainer<>::
-MainMenu.gd::GDScript::-1::1711487075::0::1::::<>Control<>::
-visual_novel_main.gd::GDScript::-1::1711487075::0::1::::<>Control<>::
-visual_novel_main.tscn::PackedScene::1455779774284392865::1728518921::0::1::::<><>::res://VisualNovel/Menu/visual_novel_main.gd<>res://VisualNovel/Menu/MainMenu.gd<>uid://bssrflnw7d8yk::::res://Assets/Fonts/Roboto/Roboto-Black.ttf<>res://VisualNovel/Menu/LoadMenu.gd<>uid://wqknpjusu12x::::res://Assets/Fonts/Roboto/Roboto-Italic.ttf<>uid://ck0d26m5eu4u1::::res://icon.svg<>res://VisualNovel/Menu/IngameUI.gd<>uid://c45jssux3bjau::::res://VisualNovel/Assets/UI/save.png<>uid://doje4hj6iiena::::res://VisualNovel/Assets/UI/open.png<>uid://cqq0e670rkfg7::::res://VisualNovel/Assets/UI/trashcan.png<>uid://b56a0qsrn74ny::::res://VisualNovel/Assets/UI/plus.png<>uid://celo081b3y7b2::::res://VisualNovel/Assets/UI/gear.png<>uid://d3dvtmfh78l5e::::res://icon.png<>uid://buonhbuhq6hyr::::res://VisualNovel/Assets/UI/home.png<>uid://cb4tmlq0wiud4::::res://VisualNovel/Assets/UI/menuGrid.png<>uid://dcdnie4y6mp7w::::res://VisualNovel/Assets/UI/exit.png<>uid://dbf172yqstv2t::::res://VisualNovel/Assets/UI/cross.png<>uid://by0iohy1gfqpa::::res://Assets/Fonts/Roboto/Roboto-Bold.ttf
-::res://Assets/Dialogic/Styles/::1728516845
-Default Style.tres::Resource/DialogicStyle::3691296033395655422::1728516845::0::1::::<><>::uid://cqpb3ie51rwl5::::res://addons/dialogic/Modules/DefaultLayoutParts/Base_Default/default_layout_base.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
-::res://Assets/Dialogic/Timeline/::1728513691
-::res://Assets/Dialogic/Timeline/Dia 1/::1728515805
+::res://assets/dialogic/styles/::1728588906
+VisualNovelStyle.tres::Resource/DialogicStyle::8511973190818360310::1728588906::0::1::::<><>::uid://cqpb3ie51rwl5::::res://addons/dialogic/Modules/DefaultLayoutParts/Base_Default/default_layout_base.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
+::res://assets/dialogic/timeline/::1728513691
+::res://assets/dialogic/timeline/Dia 1/::1728515805
 Dia 1 - Ligação da Mãe.dtl::Resource::-1::1728515805::0::1::::<><>::
-::res://Assets/Fonts/::1728517986
-Kenney Pixel.ttf::FontFile::6087898652731090840::1711487075::1728517986::1::::<><>::
-::res://Assets/Fonts/Caveat_Brush/::1728517986
-CaveatBrush-Regular.ttf::FontFile::5757313911622044754::1711487075::1728517986::1::::<><>::
+::res://assets/fonts/::1728588858
+Kenney Pixel.ttf::FontFile::6087898652731090840::1711487075::1728585056::1::::<><>::
+::res://assets/fonts/caveat_brush/::1728588824
+CaveatBrush-Regular.ttf::FontFile::5757313911622044754::1711487075::1728588824::1::::<><>::
 OFL.txt::TextFile::-1::1711487075::0::1::::<><>::
-::res://Assets/Fonts/Comic_Neue/::1728517986
-ComicNeue-Bold.ttf::FontFile::933783776445472054::1711487075::1728517986::1::::<><>::
-ComicNeue-BoldItalic.ttf::FontFile::1596070084429702647::1711487075::1728517986::1::::<><>::
-ComicNeue-Italic.ttf::FontFile::5136321048673520793::1711487075::1728517986::1::::<><>::
-ComicNeue-Light.ttf::FontFile::6370658539267025334::1711487075::1728517986::1::::<><>::
-ComicNeue-LightItalic.ttf::FontFile::5799865385776054882::1711487075::1728517986::1::::<><>::
-ComicNeue-Regular.ttf::FontFile::4406689383755779536::1711487075::1728517986::1::::<><>::
+::res://assets/fonts/comic_neue/::1728588876
+ComicNeue-Bold.ttf::FontFile::933783776445472054::1711487075::1728588876::1::::<><>::
+ComicNeue-BoldItalic.ttf::FontFile::1596070084429702647::1711487075::1728588876::1::::<><>::
+ComicNeue-Italic.ttf::FontFile::5136321048673520793::1711487075::1728588876::1::::<><>::
+ComicNeue-Light.ttf::FontFile::6370658539267025334::1711487075::1728588876::1::::<><>::
+ComicNeue-LightItalic.ttf::FontFile::5799865385776054882::1711487075::1728588876::1::::<><>::
+ComicNeue-Regular.ttf::FontFile::4406689383755779536::1711487075::1728588876::1::::<><>::
 OFL.txt::TextFile::-1::1711487075::0::1::::<><>::
-::res://Assets/Fonts/Roboto/::1728517986
+::res://assets/fonts/roboto/::1728588876
 LICENSE.txt::TextFile::-1::1711487075::0::1::::<><>::
-Roboto-Black.ttf::FontFile::3688020385479122262::1711487075::1728517986::1::::<><>::
-Roboto-BlackItalic.ttf::FontFile::4575401307420855926::1711487075::1728517986::1::::<><>::
-Roboto-Bold.ttf::FontFile::4123073517842484486::1711487075::1728517986::1::::<><>::
-Roboto-BoldItalic.ttf::FontFile::2250722554878147413::1711487075::1728517986::1::::<><>::
-Roboto-Italic.ttf::FontFile::1577815792037168661::1711487075::1728517985::1::::<><>::
-Roboto-Light.ttf::FontFile::1308827241429327391::1711487075::1728517985::1::::<><>::
-Roboto-LightItalic.ttf::FontFile::7496316552161855862::1711487075::1728517985::1::::<><>::
-Roboto-Medium.ttf::FontFile::6259644496952833951::1711487075::1728517985::1::::<><>::
-Roboto-MediumItalic.ttf::FontFile::7177803810364673683::1711487075::1728517985::1::::<><>::
-Roboto-Regular.ttf::FontFile::8386698498891397605::1711487075::1728517985::1::::<><>::
-Roboto-Thin.ttf::FontFile::99376989113933527::1711487075::1728517985::1::::<><>::
-Roboto-ThinItalic.ttf::FontFile::5229699543530303843::1711487075::1728517985::1::::<><>::
-::res://Assets/Graphics/::1728512209
-::res://Assets/Graphics/Characters/::1728512209
-::res://Assets/Graphics/UI/::1728517817
-audioOff.png::CompressedTexture2D::861736046558151035::1711487075::1728517817::1::::<><>::
-audioOn.png::CompressedTexture2D::6628990677518998123::1711487075::1728517817::1::::<><>::
-checkmark.png::CompressedTexture2D::3839442359735805002::1711487075::1728517817::1::::<><>::
-cross.png::CompressedTexture2D::4595781880363129378::1711487075::1728517817::1::::<><>::
-exit.png::CompressedTexture2D::7273697020518645391::1711487075::1728517817::1::::<><>::
-export.png::CompressedTexture2D::8793598406942564080::1711487075::1728517817::1::::<><>::
-fastForward.png::CompressedTexture2D::766432013334115246::1711487075::1728517817::1::::<><>::
-gear.png::CompressedTexture2D::4959952528024980171::1711487075::1728517817::1::::<><>::
-home.png::CompressedTexture2D::5927709362114818333::1711487075::1728517817::1::::<><>::
-import.png::CompressedTexture2D::5990251103404062145::1711487075::1728517817::1::::<><>::
-information.png::CompressedTexture2D::3009000327082768681::1711487075::1728517817::1::::<><>::
-menuGrid.png::CompressedTexture2D::2355621167749849654::1711487075::1728517817::1::::<><>::
-musicOff.png::CompressedTexture2D::7869291059270136752::1711487075::1728517817::1::::<><>::
-musicOn.png::CompressedTexture2D::5016918401823553395::1711487075::1728517817::1::::<><>::
-open.png::CompressedTexture2D::5757745893590013521::1711487075::1728517817::1::::<><>::
-plus.png::CompressedTexture2D::6456480114590289847::1711487075::1728517817::1::::<><>::
-save.png::CompressedTexture2D::7414844538834980933::1711487075::1728517817::1::::<><>::
-trashcan.png::CompressedTexture2D::3631910618442146697::1711487075::1728517817::1::::<><>::
-VisualNovelStyle.tres::Resource/DialogicStyle::-1::1711487075::0::1::::<><>::
-::res://Assets/Scenes/::1728517396
-::res://Assets/Scripts/::1728512152
-::res://FakeUnitTests/::1728518899
-fake_unit_test_scene.gd::GDScript::-1::1711487075::0::1::::<>Control<>::
-fake_unit_test_scene.tres::VisualShader::6976113074323410117::1711487075::0::1::::<><>::
-fake_unit_test_scene.tscn::PackedScene::4972683697535505167::1728518899::0::1::::<><>::res://Test/FakeUnitTests/fake_unit_test_scene.gd
-t0_overview.dtl::Resource::-1::1711487075::0::1::::<><>::
-t1_texts.dtl::Resource::-1::1711487075::0::1::::<><>::
-t2_characters.dtl::Resource::-1::1711487075::0::1::::<><>::
-t3_variables.dtl::Resource::-1::1711487075::0::1::::<><>::
-t4_styles.dtl::Resource::-1::1711487075::0::1::::<><>::
-t5_various_events.dtl::Resource::-1::1711487075::0::1::::<><>::
-TC1_Simple.dch::Resource::-1::1711487075::0::1::::<><>::
-TC2 Simple2.dch::Resource::-1::1711487075::0::1::::<><>::
-TC3_BasicPortraits.dch::Resource::-1::1711487075::0::1::::<><>::
-TC4_BasicPortraits2.dch::Resource::-1::1711487075::0::1::::<><>::
-TC5_BasicPortraits3.dch::Resource::-1::1711487075::0::1::::<><>::
-TC6_Style.dch::Resource::-1::1711487075::0::1::::<><>::
-unit_test_autoload.gd::GDScript::-1::1711487075::0::1::::<>Node<>::
-unit_test_glossary.tres::Resource/DialogicGlossary::3533575291784052597::1711487075::0::1::::<><>::res://addons/dialogic/Modules/Glossary/glossary_resource.gd
-unit_test_style_a.tres::Resource/DialogicStyle::4053637004171801747::1711487075::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
-unit_test_style_b.tres::Resource/DialogicStyle::7556276805924681703::1728518899::0::1::::<><>::uid://bx0u2rpnbroc6::::res://Test/FakeUnitTests/unit_test_style_a.tres<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>res://addons/dialogic/Resources/dialogic_style.gd
-::res://FakeUnitTests/Assets/::1728518752
-::res://FakeUnitTests/Assets/TypingSounds/::1728518905
-LICENSE.txt::TextFile::-1::1711487075::0::1::::<><>::
-typing1.wav::AudioStreamWAV::7139273013194265759::1711487075::1728519015::1::::<><>::
-typing2.wav::AudioStreamWAV::6791373712371460800::1711487075::1728519015::1::::<><>::
-typing3.wav::AudioStreamWAV::1385510503374953832::1711487075::1728519015::1::::<><>::
-typing4.wav::AudioStreamWAV::1070899941268498836::1711487075::1728519015::1::::<><>::
-typing5.wav::AudioStreamWAV::2725510641912749739::1711487075::1728519015::1::::<><>::
-::res://MainMenu/::1728518972
-Dialogic Logo.svg::CompressedTexture2D::4591751384636375784::1711487075::1728519009::1::::<><>::
-Menu.gd::GDScript::-1::1728518805::0::1::::<>Control<>::
-Menu.tscn::PackedScene::5210993650944559636::1728518972::0::1::::<><>::res://Test/MainMenu/Menu.gd<>uid://b6ojqepprixp5::::res://Test/MainMenu/Dialogic Logo.svg<>res://VisualNovel/Assets/UI/cross.png<>uid://btq2j5wf1e07n::::res://Test/MainMenu/ProjectPreview.tscn<>uid://dpwegt7uaxvpp::::res://Test/MainMenu/Assets/SmartphonePreview.PNG<>uid://dq7cj103qa77o::::res://Test/MainMenu/Assets/VN_Preview.PNG<>uid://cybm65snv8238::::res://Test/MainMenu/Assets/RPG_Preview.PNG
-ProjectPreview.gd::GDScript::-1::1711487075::0::1::::<>Panel<>::
-ProjectPreview.tscn::PackedScene::3754695797778821905::1728518899::0::1::::<><>::res://Test/MainMenu/ProjectPreview.gd<>uid://b3va3r6l0t2lv::::res://Test/MainMenu/Assets/Fonts/Roboto/Roboto-Black.ttf
-::res://MainMenu/Assets/::1728518905
-RPG_Preview.PNG::CompressedTexture2D::6460223560104325053::1711487075::1728519010::1::::<><>::
-showcase_0.png::CompressedTexture2D::8777479798709073630::1711487075::1728519010::1::::<><>::
-showcase_1.png::CompressedTexture2D::7889440662733803333::1711487075::1728519010::1::::<><>::
-showcase_2.png::CompressedTexture2D::1672022907187719272::1711487075::1728519010::1::::<><>::
-showcase_3.png::CompressedTexture2D::490671780738148980::1711487075::1728519010::1::::<><>::
-showcase_4.png::CompressedTexture2D::1780241895383430491::1711487075::1728519010::1::::<><>::
-SmartphonePreview.PNG::CompressedTexture2D::8257765647260630553::1711487075::1728519009::1::::<><>::
-VN_Preview.PNG::CompressedTexture2D::8348482549069236622::1711487075::1728519010::1::::<><>::
-::res://MainMenu/Assets/Fonts/::1728518904
-Kenney Pixel.ttf::FontFile::1580043731170049641::1711487075::1728519002::1::::<><>::
-::res://MainMenu/Assets/Fonts/Caveat_Brush/::1728518904
-CaveatBrush-Regular.ttf::FontFile::4406913654421875208::1711487075::1728519002::1::::<><>::
-OFL.txt::TextFile::-1::1711487075::0::1::::<><>::
-::res://MainMenu/Assets/Fonts/Comic_Neue/::1728518904
-ComicNeue-Bold.ttf::FontFile::3263675107127662092::1711487075::1728519002::1::::<><>::
-ComicNeue-BoldItalic.ttf::FontFile::2820300117062063254::1711487075::1728519002::1::::<><>::
-ComicNeue-Italic.ttf::FontFile::8381901801116121161::1711487075::1728519002::1::::<><>::
-ComicNeue-Light.ttf::FontFile::2047542302755700179::1711487075::1728519001::1::::<><>::
-ComicNeue-LightItalic.ttf::FontFile::8839403768285935865::1711487075::1728519001::1::::<><>::
-ComicNeue-Regular.ttf::FontFile::5876589418123432805::1711487075::1728519001::1::::<><>::
-OFL.txt::TextFile::-1::1711487075::0::1::::<><>::
-::res://MainMenu/Assets/Fonts/Roboto/::1728518904
-LICENSE.txt::TextFile::-1::1711487075::0::1::::<><>::
-Roboto-Black.ttf::FontFile::4395111181942465983::1711487075::1728519001::1::::<><>::
-Roboto-BlackItalic.ttf::FontFile::511324447606280182::1711487075::1728519001::1::::<><>::
-Roboto-Bold.ttf::FontFile::4376291843203677672::1711487075::1728519001::1::::<><>::
-Roboto-BoldItalic.ttf::FontFile::7689854983413733816::1711487075::1728519001::1::::<><>::
-Roboto-Italic.ttf::FontFile::6196698709171772594::1711487075::1728519001::1::::<><>::
-Roboto-Light.ttf::FontFile::6169757824875296884::1711487075::1728519001::1::::<><>::
-Roboto-LightItalic.ttf::FontFile::1060444235254736136::1711487075::1728519001::1::::<><>::
-Roboto-Medium.ttf::FontFile::2807299009013268742::1711487075::1728519001::1::::<><>::
-Roboto-MediumItalic.ttf::FontFile::7590929126132628210::1711487075::1728519001::1::::<><>::
-Roboto-Regular.ttf::FontFile::3664754438845131647::1711487075::1728519001::1::::<><>::
-Roboto-Thin.ttf::FontFile::1795656386792344193::1711487075::1728519002::1::::<><>::
-Roboto-ThinItalic.ttf::FontFile::1348955473263407531::1711487075::1728519002::1::::<><>::
-::res://SmallRPG/::1728518899
-SmallRPG.gd::GDScript::-1::1711487075::0::1::::<>Node2D<>::
-SmallRPG.tscn::PackedScene::6756292409554619527::1728518899::0::1::::<><>::res://Test/SmallRPG/SmallRPG.gd<>uid://cppeifopv5d14::::res://Test/SmallRPG/Assets/tilemap_castles.png<>res://Test/SmallRPG/TopDown_Player.gd<>uid://f3uosvaycoy0::::res://Test/SmallRPG/Assets/tilemap_village.png<>res://Test/SmallRPG/TopDown_Interactable.gd<>res://Test/SmallRPG/Timelines/Smith.dch<>res://Test/SmallRPG/Timelines/rpg_smith.dtl<>uid://cs0a2imsxi7iy::::res://Assets/Fonts/Kenney Pixel.ttf
-TopDown_Interactable.gd::GDScript::-1::1711487075::0::1::::<>Area2D<>::
-TopDown_Player.gd::GDScript::-1::1711487075::0::1::::<>CharacterBody2D<>::
-::res://SmallRPG/Assets/::1728518904
-buttonX.png::CompressedTexture2D::5231987873621148440::1711487075::1728519009::1::::<><>::
-exclamation.png::CompressedTexture2D::8816124276023303642::1711487075::1728519009::1::::<><>::
-interaction.png::CompressedTexture2D::1803587310708834515::1711487075::1728519009::1::::<><>::
-talking_sound.ogg::AudioStreamOggVorbis::5507353126085945832::1711487075::1728519002::1::::<><>::
-talking_sound_short.ogg::AudioStreamOggVorbis::1684311876989230590::1711487075::1728519002::1::::<><>::
-TextBubbleStyle.tres::Resource/DialogicStyle::1776175362793026848::1711487075::0::1::::<><>::uid://syki6k0e6aac::::res://addons/dialogic/Modules/DefaultLayoutParts/Base_TextBubble/text_bubble_base.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://d2it0xiap3gnt::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Textbubble/text_bubble_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
-tilemap_castles.png::CompressedTexture2D::5856897127544679997::1711487075::1728519009::1::::<><>::
-tilemap_village.png::CompressedTexture2D::409987114167196497::1711487075::1728519009::1::::<><>::
-::res://SmallRPG/Timelines/::1728518751
-Player.dch::Resource::-1::1711487075::0::1::::<><>::
-rpg_smith.dtl::Resource::-1::1711487075::0::1::::<><>::
-Smith.dch::Resource::-1::1711487075::0::1::::<><>::
-::res://Smartphone/::1728518921
+Roboto-Black.ttf::FontFile::3688020385479122262::1711487075::1728588876::1::::<><>::
+Roboto-BlackItalic.ttf::FontFile::4575401307420855926::1711487075::1728588876::1::::<><>::
+Roboto-Bold.ttf::FontFile::4123073517842484486::1711487075::1728588876::1::::<><>::
+Roboto-BoldItalic.ttf::FontFile::2250722554878147413::1711487075::1728588876::1::::<><>::
+Roboto-Italic.ttf::FontFile::1577815792037168661::1711487075::1728588876::1::::<><>::
+Roboto-Light.ttf::FontFile::1308827241429327391::1711487075::1728588876::1::::<><>::
+Roboto-LightItalic.ttf::FontFile::7496316552161855862::1711487075::1728588876::1::::<><>::
+Roboto-Medium.ttf::FontFile::6259644496952833951::1711487075::1728588876::1::::<><>::
+Roboto-MediumItalic.ttf::FontFile::7177803810364673683::1711487075::1728588876::1::::<><>::
+Roboto-Regular.ttf::FontFile::8386698498891397605::1711487075::1728588876::1::::<><>::
+Roboto-Thin.ttf::FontFile::99376989113933527::1711487075::1728588876::1::::<><>::
+Roboto-ThinItalic.ttf::FontFile::5229699543530303843::1711487075::1728588876::1::::<><>::
+::res://assets/graphics/::1728587818
+::res://assets/graphics/characters/::1728512209
+::res://assets/graphics/shaders/::1728589007
+button_click.gdshader::Shader::-1::1728589020::0::1::::<><>::
+button_click_overlay.tres::ShaderMaterial::-1::1728587832::0::1::::<><>::res://assets/graphics/shaders/button_click.gdshader
+::res://assets/graphics/ui/::1728588911
+audioOff.png::CompressedTexture2D::7514937438033311266::1711487075::1728587933::1::::<><>::
+audioOn.png::CompressedTexture2D::7391198598787173957::1711487075::1728587933::1::::<><>::
+checkmark.png::CompressedTexture2D::5672190388755004848::1711487075::1728587933::1::::<><>::
+cross.png::CompressedTexture2D::2287787656928293175::1711487075::1728587932::1::::<><>::
+exit.png::CompressedTexture2D::7458210446013700827::1711487075::1728587932::1::::<><>::
+export.png::CompressedTexture2D::3712304697600157833::1711487075::1728587932::1::::<><>::
+fastForward.png::CompressedTexture2D::2448864927577663338::1711487075::1728587932::1::::<><>::
+gear.png::CompressedTexture2D::2147438213272211310::1711487075::1728587932::1::::<><>::
+home.png::CompressedTexture2D::2989579068477093643::1711487075::1728587932::1::::<><>::
+import.png::CompressedTexture2D::6183015169740984621::1711487075::1728587932::1::::<><>::
+information.png::CompressedTexture2D::1432132355241283226::1711487075::1728587932::1::::<><>::
+menuGrid.png::CompressedTexture2D::1964143500555143898::1711487075::1728587932::1::::<><>::
+musicOff.png::CompressedTexture2D::8311877993251919527::1711487075::1728587932::1::::<><>::
+musicOn.png::CompressedTexture2D::5295016219682972781::1711487075::1728587932::1::::<><>::
+open.png::CompressedTexture2D::3121813776970327296::1711487075::1728587932::1::::<><>::
+plus.png::CompressedTexture2D::3806768623287520914::1711487075::1728587932::1::::<><>::
+save.png::CompressedTexture2D::7782582757931726417::1711487075::1728587932::1::::<><>::
+trashcan.png::CompressedTexture2D::2919597429219026629::1711487075::1728587932::1::::<><>::
+::res://assets/scenes/::1728589007
+main_menu.tscn::PackedScene::1455779774284392865::1728589020::0::1::::<><>::res://assets/scripts/menu/visual_novel_main.gd<>res://assets/scripts/menu/main_menu.gd<>uid://duppimvmc0ixr::::res://Dialogic Logo.svg<>uid://b6gmgq4mwfmdy::::res://assets/fonts/roboto/Roboto-BlackItalic.ttf<>res://assets/scripts/menu/load_menu.gd<>uid://bkqh21hwuc0j1::::res://assets/graphics/ui/open.png<>uid://bhujlwvh3paor::::res://assets/graphics/ui/trashcan.png<>uid://voqomsl241ip::::res://icon.png<>uid://wqknpjusu12x::::res://assets/fonts/roboto/Roboto-Italic.ttf<>res://assets/scripts/menu/IngameUI.gd<>uid://buia6nbsr84ag::::res://assets/graphics/ui/plus.png<>uid://di47abejaku5v::::res://assets/graphics/ui/save.png<>uid://5uh81vs16rpu::::res://assets/graphics/ui/gear.png<>uid://biuf6vvnbkp12::::res://assets/graphics/ui/home.png<>uid://28pfk5wesifa::::res://assets/graphics/ui/menuGrid.png<>uid://dei2vvwt0jgh4::::res://assets/graphics/ui/exit.png<>uid://7uhr75twhyod::::res://assets/graphics/ui/cross.png<>uid://by0iohy1gfqpa::::res://assets/fonts/roboto/Roboto-Bold.ttf
+::res://assets/scripts/::1728586126
+::res://assets/scripts/menu/::1728589007
+IngameUI.gd::GDScript::-1::1711487075::0::1::::<>CanvasLayer<>::
+load_menu.gd::GDScript::-1::1711487075::0::1::::<>VBoxContainer<>::
+main_menu.gd::GDScript::-1::1728588652::0::1::::<>Control<>::
+visual_novel_main.gd::GDScript::-1::1728586954::0::1::::<>Control<>::
+::res://Smartphone/::1728519382
 ContactButton.gd::GDScript::-1::1711487075::0::1::::<>VBoxContainer<>::
-contact_button.tscn::PackedScene::3618863433516371051::1728518899::0::1::::<><>::res://Test/Smartphone/ContactButton.gd<>uid://pro2ubajvigj::::res://Test/Smartphone/Assets/elf.png<>uid://bssrflnw7d8yk::::res://Assets/Fonts/Roboto/Roboto-Black.ttf
+contact_button.tscn::PackedScene::3618863433516371051::1711487075::0::1::::<><>::res://Smartphone/ContactButton.gd<>uid://bsb3pyc2vy0bt::::res://Smartphone/Assets/elf.png<>uid://b7jgyogiuxer3::::res://Assets/Fonts/Roboto/Roboto-Black.ttf
 image_message_panel.gd::GDScript::-1::1711487075::0::1::::<>Panel<>::
-image_message_panel.tscn::PackedScene::5942838441836049085::1728518899::0::1::::<><>::uid://cybm65snv8238::::res://Test/MainMenu/Assets/RPG_Preview.PNG<>res://Test/Smartphone/image_message_panel.gd
+image_message_panel.tscn::PackedScene::5942838441836049085::1711487075::0::1::::<><>::uid://bp18h0ibngt7s::::res://MainMenu/Assets/RPG_Preview.PNG<>res://Smartphone/image_message_panel.gd
 message_panel.tscn::PackedScene::2139660425301257045::1711487075::0::1::::<><>::
 phone_example.gd::GDScript::-1::1711487075::0::1::::<>Control<>::
-phone_example.tscn::PackedScene::7918642025178074879::1728518921::0::1::::<><>::res://Test/Smartphone/phone_example.gd<>uid://dgfdq1w087jmg::::res://Test/MainMenu/Assets/Fonts/Roboto/Roboto-MediumItalic.ttf<>uid://brtaff0j0wfm6::::res://Test/Smartphone/contact_button.tscn<>uid://pro2ubajvigj::::res://Test/Smartphone/Assets/elf.png<>uid://db74l7tybg5lp::::res://Test/Smartphone/Assets/dwarf.png<>uid://i5pd3judx1dv::::res://Test/Smartphone/Assets/knight.png<>uid://dbf172yqstv2t::::res://VisualNovel/Assets/UI/cross.png
+phone_example.tscn::PackedScene::7918642025178074879::1711487075::0::1::::<><>::res://Smartphone/phone_example.gd<>uid://c05jd1fu67en::::res://MainMenu/Assets/Fonts/Roboto/Roboto-MediumItalic.ttf<>uid://brtaff0j0wfm6::::res://Smartphone/contact_button.tscn<>uid://bsb3pyc2vy0bt::::res://Smartphone/Assets/elf.png<>uid://c6h63a0ufpvvh::::res://Smartphone/Assets/dwarf.png<>uid://dykkpg0mdhimc::::res://Smartphone/Assets/knight.png<>uid://digng6kq2lkxj::::res://VisualNovel/Assets/UI/cross.png
 SmartphoneLayout.gd::GDScript::-1::1711487075::0::1::::<>DialogicLayoutBase<>::
-SmartphoneLayout.tscn::PackedScene::8151250270800843399::1728518899::0::1::::<><>::res://addons/dialogic/Modules/Text/node_dialog_text.gd<>res://Test/Smartphone/SmartphoneLayout.gd<>uid://c1eac0phehfdl::::res://Test/Smartphone/Assets/GalaxyNote3.png<>res://addons/dialogic/Modules/Choice/node_choice_button.gd
-Smartphone_Style.tres::Resource/DialogicStyle::537374239070716407::1728518899::0::1::::<><>::res://addons/dialogic/Resources/dialogic_style.gd<>uid://doer5vu1ifsrv::::res://Test/Smartphone/SmartphoneLayout.tscn
-::res://Smartphone/Assets/::1728518904
-dwarf.png::CompressedTexture2D::7297293130560975613::1711487075::1728519009::1::::<><>::
-elf.png::CompressedTexture2D::1088826382748333805::1711487075::1728519009::1::::<><>::
-GalaxyNote3.png::CompressedTexture2D::6606013721158587165::1711487075::1728519009::1::::<><>::
-goblin.png::CompressedTexture2D::6733039040178236407::1711487075::1728519009::1::::<><>::
-knight.png::CompressedTexture2D::624359679469959435::1711487075::1728519009::1::::<><>::
-secret_message.png::CompressedTexture2D::51950731045826849::1711487075::1728519009::1::::<><>::
-skeleton.png::CompressedTexture2D::8302398692038737271::1711487075::1728519009::1::::<><>::
-::res://Smartphone/Characters/::1728518751
+SmartphoneLayout.tscn::PackedScene::8151250270800843399::1711487075::0::1::::<><>::res://addons/dialogic/Modules/Text/node_dialog_text.gd<>res://Smartphone/SmartphoneLayout.gd<>uid://2qcib4nigr0o::::res://Smartphone/Assets/GalaxyNote3.png<>res://addons/dialogic/Modules/Choice/node_choice_button.gd
+Smartphone_Style.tres::Resource/DialogicStyle::537374239070716407::1711487075::0::1::::<><>::res://addons/dialogic/Resources/dialogic_style.gd<>uid://doer5vu1ifsrv::::res://Smartphone/SmartphoneLayout.tscn
+::res://Smartphone/Assets/::1728519400
+dwarf.png::CompressedTexture2D::7452223168337756343::1711487075::1728519400::1::::<><>::
+elf.png::CompressedTexture2D::8960746593952682346::1711487075::1728519400::1::::<><>::
+GalaxyNote3.png::CompressedTexture2D::515433768549307431::1711487075::1728519400::1::::<><>::
+goblin.png::CompressedTexture2D::5480179619824092030::1711487075::1728519400::1::::<><>::
+knight.png::CompressedTexture2D::1910191015042614253::1711487075::1728519400::1::::<><>::
+secret_message.png::CompressedTexture2D::1140995231636444869::1711487075::1728519400::1::::<><>::
+skeleton.png::CompressedTexture2D::1388970269405612637::1711487075::1728519400::1::::<><>::
+::res://Smartphone/Characters/::1728519382
 Claire.dch::Resource::-1::1711487075::0::1::::<><>::
 Laurey.dch::Resource::-1::1711487075::0::1::::<><>::
 Otto.dch::Resource::-1::1711487075::0::1::::<><>::
-::res://Smartphone/Timelines/::1728518751
+::res://Smartphone/Timelines/::1728519382
 Claire.dtl::Resource::-1::1711487075::0::1::::<><>::
 Laurey.dtl::Resource::-1::1711487075::0::1::::<><>::
 Otto.dtl::Resource::-1::1711487075::0::1::::<><>::
-::res://Test/::1728518993
-::res://VisualNovel/::1728518752
-button_click.gdshader::Shader::-1::1711487075::0::1::::<><>::
-::res://VisualNovel/Assets/::1728518752
-::res://VisualNovel/Assets/Backgrounds/::1728518957
-Apartment 6.png::CompressedTexture2D::7948171851665876469::1711487075::1728519009::1::::<><>::
-Balcony 2.png::CompressedTexture2D::7919257322400774349::1711487075::1728519009::1::::<><>::
-Balcony 4.png::CompressedTexture2D::6283331890330765014::1711487075::1728519009::1::::<><>::
-Bedroom 6.png::CompressedTexture2D::7225926752486507109::1711487075::1728519007::1::::<><>::
-Bedroom 11.png::CompressedTexture2D::5259697218720706481::1711487075::1728519007::1::::<><>::
-Bedroom 16.png::CompressedTexture2D::8991266708255909376::1711487075::1728519007::1::::<><>::
-House 7.png::CompressedTexture2D::5580686630534421640::1711487075::1728519006::1::::<><>::
-House 25.png::CompressedTexture2D::2860939674579967777::1711487075::1728519006::1::::<><>::
-Interior 4.png::CompressedTexture2D::2874614204273575577::1711487075::1728519006::1::::<><>::
-Interior 5.png::CompressedTexture2D::6628385165635321699::1711487075::1728519012::1::::<><>::
-Kiosk 4.png::CompressedTexture2D::7372257546814389202::1711487075::1728519012::1::::<><>::
-Library 1.png::CompressedTexture2D::1311691862445873584::1711487075::1728519012::1::::<><>::
-particles_background.gd::GDScript::-1::1711487075::0::1::::<>DialogicBackground<>::
-particles_background.tscn::PackedScene::945973042718494416::1728518921::0::1::::<><>::res://VisualNovel/Assets/Backgrounds/particles_background.gd<>uid://c1o3sg02vq2w2::::res://VisualNovel/Assets/Backgrounds/Interior 5.png
-Porch 4.png::CompressedTexture2D::4634835609886645855::1711487075::1728519014::1::::<><>::
-Restaurant 9.png::CompressedTexture2D::7791785876336513039::1711487075::1728519014::1::::<><>::
-Stairs 1.png::CompressedTexture2D::6147000960723175605::1711487075::1728519014::1::::<><>::
-Storage 2.png::CompressedTexture2D::178022010682089711::1711487075::1728519015::1::::<><>::
-::res://VisualNovel/Assets/Characters/::1728518752
-::res://VisualNovel/Assets/Characters/Antonio/::1728518958
-animated_portrait_antonio.gd::GDScript::-1::1711487075::0::1::::<>DialogicPortrait<>::
-animated_portrait_antonio.tscn::PackedScene::6886353906512165479::1728518921::0::1::::<><>::res://VisualNovel/Assets/Characters/Antonio/animated_portrait_antonio.gd<>uid://bxvwvla5tyo2f::::res://VisualNovel/Assets/Characters/Antonio/pl5.png<>uid://c4nh7ue4r32he::::res://VisualNovel/Assets/Characters/Antonio/pl5 blink.png
-pl5 blink.png::CompressedTexture2D::6835637966033937774::1711487075::1728519011::1::::<><>::
-pl5 doubt.png::CompressedTexture2D::7212276742944982638::1711487075::1728519011::1::::<><>::
-pl5 hate.png::CompressedTexture2D::689620141780888779::1711487075::1728519011::1::::<><>::
-pl5 plot.png::CompressedTexture2D::7049427113732379997::1711487075::1728519010::1::::<><>::
-pl5 sad.png::CompressedTexture2D::1568752632783761305::1711487075::1728519010::1::::<><>::
-pl5 scoff.png::CompressedTexture2D::375346875496472923::1711487075::1728519010::1::::<><>::
-pl5 shy.png::CompressedTexture2D::1372656886459524681::1711487075::1728519010::1::::<><>::
-pl5 surprise.png::CompressedTexture2D::8749587418623378456::1711487075::1728519010::1::::<><>::
-pl5.png::CompressedTexture2D::4045489874862231299::1711487075::1728519010::1::::<><>::
-::res://VisualNovel/Assets/Characters/Antonio/faces/::1728518947
-antonio_face_blink.png::CompressedTexture2D::7487494551467308694::1711487075::1728519014::1::::<><>::
-antonio_face_default.png::CompressedTexture2D::5404987138741366389::1711487075::1728519014::1::::<><>::
-antonio_face_doubt.png::CompressedTexture2D::942164787283452819::1711487075::1728519014::1::::<><>::
-antonio_face_hate.png::CompressedTexture2D::7861537261332832133::1711487075::1728519014::1::::<><>::
-antonio_face_plot.png::CompressedTexture2D::154777230587331712::1711487075::1728519014::1::::<><>::
-antonio_face_sad.png::CompressedTexture2D::2860330872647782422::1711487075::1728519014::1::::<><>::
-antonio_face_scoff.png::CompressedTexture2D::3433453634050989491::1711487075::1728519014::1::::<><>::
-antonio_face_shy.png::CompressedTexture2D::2602384066664143472::1711487075::1728519014::1::::<><>::
-antonio_face_surprise.png::CompressedTexture2D::1844130364271343392::1711487075::1728519011::1::::<><>::
-::res://VisualNovel/Assets/Characters/Audrey/::1728518957
-pl2 angry.png::CompressedTexture2D::4754843429066366521::1711487075::1728519010::1::::<><>::
-pl2 blink.png::CompressedTexture2D::3308870217959242031::1711487075::1728519010::1::::<><>::
-pl2 concept.png::CompressedTexture2D::1634736325663337146::1711487075::1728519010::1::::<><>::
-pl2 happy.png::CompressedTexture2D::3161432028421248006::1711487075::1728519010::1::::<><>::
-pl2 hate.png::CompressedTexture2D::8850130819349257400::1711487075::1728519010::1::::<><>::
-pl2 plot.png::CompressedTexture2D::4404119539881141120::1711487075::1728519002::1::::<><>::
-pl2 sad.png::CompressedTexture2D::1869902936939721118::1711487075::1728519002::1::::<><>::
-pl2 shy.png::CompressedTexture2D::9208688630721547809::1711487075::1728519002::1::::<><>::
-pl2 surprise.png::CompressedTexture2D::9110924675429629228::1711487075::1728519003::1::::<><>::
-pl2 worry.png::CompressedTexture2D::318457273494777469::1711487075::1728519003::1::::<><>::
-::res://VisualNovel/Assets/Characters/Chyou/::1728518957
-pl4 angry.png::CompressedTexture2D::3769847740229785506::1711487075::1728519003::1::::<><>::
-pl4 blink.png::CompressedTexture2D::8463158471278468160::1711487075::1728519003::1::::<><>::
-pl4 concept.png::CompressedTexture2D::8050602395446235836::1711487075::1728519003::1::::<><>::
-pl4 happy.png::CompressedTexture2D::3992921203811580140::1711487075::1728519003::1::::<><>::
-pl4 normal.png::CompressedTexture2D::4745099753611163684::1711487075::1728519003::1::::<><>::
-pl4 plot.png::CompressedTexture2D::2543757666028056743::1711487075::1728519003::1::::<><>::
-pl4 sad.png::CompressedTexture2D::2066713254113705113::1711487075::1728519003::1::::<><>::
-pl4 scoff.png::CompressedTexture2D::7555890148605759507::1711487075::1728519003::1::::<><>::
-pl4 shy.png::CompressedTexture2D::6829110974775280547::1711487075::1728519003::1::::<><>::
-pl4 surprise.png::CompressedTexture2D::8819246541777983235::1711487075::1728519003::1::::<><>::
-pl4 worry.png::CompressedTexture2D::3728800393484610818::1711487075::1728519003::1::::<><>::
-::res://VisualNovel/Assets/Characters/Eliana/::1728518946
-pl1 angry.png::CompressedTexture2D::68372850620570853::1711487075::1728519003::1::::<><>::
-pl1 blink.png::CompressedTexture2D::4426156018683104136::1711487075::1728519002::1::::<><>::
-pl1 concept.png::CompressedTexture2D::388231683985763249::1711487075::1728519002::1::::<><>::
-pl1 happy.png::CompressedTexture2D::4695664053268049279::1711487075::1728519002::1::::<><>::
-pl1 hate.png::CompressedTexture2D::3127919855264415896::1711487075::1728519002::1::::<><>::
-pl1 plot.png::CompressedTexture2D::3688173706269282753::1711487075::1728519002::1::::<><>::
-pl1 sad.png::CompressedTexture2D::2570731070081149803::1711487075::1728519002::1::::<><>::
-pl1 sadhappy.png::CompressedTexture2D::4048549917695202039::1711487075::1728519002::1::::<><>::
-pl1 serious.png::CompressedTexture2D::6265202650471891738::1711487075::1728519002::1::::<><>::
-pl1 surprise.png::CompressedTexture2D::5607702654643411929::1711487075::1728519002::1::::<><>::
-pl1 wangry.png::CompressedTexture2D::3150163134546540732::1711487075::1728519002::1::::<><>::
-pl1 wblink.png::CompressedTexture2D::2257111199397415354::1711487075::1728519002::1::::<><>::
-pl1 wconcept.png::CompressedTexture2D::2347014781486487515::1711487075::1728519002::1::::<><>::
-pl1 whappy.png::CompressedTexture2D::7324867444688971731::1711487075::1728519002::1::::<><>::
-pl1 whate.png::CompressedTexture2D::4126612974010734646::1711487075::1728519002::1::::<><>::
-pl1 wplot.png::CompressedTexture2D::2063897116644900787::1711487075::1728519002::1::::<><>::
-pl1 wsad.png::CompressedTexture2D::8714829983509121926::1711487075::1728519004::1::::<><>::
-pl1 wsadhappy.png::CompressedTexture2D::8671134823352264175::1711487075::1728519004::1::::<><>::
-pl1 wserious.png::CompressedTexture2D::2511375895340423835::1711487075::1728519004::1::::<><>::
-pl1 wsurprise.png::CompressedTexture2D::7743378473521132474::1711487075::1728519004::1::::<><>::
-::res://VisualNovel/Assets/Characters/Jane/::1728518947
-pl3 avoid.png::CompressedTexture2D::1228084122134248624::1711487075::1728519004::1::::<><>::
-pl3 blink.png::CompressedTexture2D::2843633246355318148::1711487075::1728519004::1::::<><>::
-pl3 concept.png::CompressedTexture2D::5396444802036367516::1711487075::1728519004::1::::<><>::
-pl3 confusion.png::CompressedTexture2D::1000747703258480405::1711487075::1728519004::1::::<><>::
-pl3 doubt.png::CompressedTexture2D::4752998213155377620::1711487075::1728519004::1::::<><>::
-pl3 happy.png::CompressedTexture2D::2101496828116038841::1711487075::1728519004::1::::<><>::
-pl3 plot.png::CompressedTexture2D::4196944071854674362::1711487075::1728519004::1::::<><>::
-pl3 sad.png::CompressedTexture2D::3080316425360071252::1711487075::1728519003::1::::<><>::
-pl3 shy.png::CompressedTexture2D::6667156982137107589::1711487075::1728519003::1::::<><>::
-pl3 surprise.png::CompressedTexture2D::2708763848429450186::1711487075::1728519003::1::::<><>::
-::res://VisualNovel/Assets/UI/::1728518947
-audioOff.png::CompressedTexture2D::7721807205602179011::1711487075::1728519003::1::::<><>::
-audioOn.png::CompressedTexture2D::5683800927118078374::1711487075::1728519003::1::::<><>::
-checkmark.png::CompressedTexture2D::561792923369847670::1711487075::1728519003::1::::<><>::
-cross.png::CompressedTexture2D::7241410026662071861::1711487075::1728519003::1::::<><>::
-exit.png::CompressedTexture2D::7306636734899845794::1711487075::1728519003::1::::<><>::
-export.png::CompressedTexture2D::8826074725959398349::1711487075::1728519003::1::::<><>::
-fastForward.png::CompressedTexture2D::3768514441444722034::1711487075::1728519003::1::::<><>::
-gear.png::CompressedTexture2D::5077201353498644829::1711487075::1728519003::1::::<><>::
-home.png::CompressedTexture2D::3819900750233979061::1711487075::1728519003::1::::<><>::
-import.png::CompressedTexture2D::4379865711709770835::1711487075::1728519003::1::::<><>::
-information.png::CompressedTexture2D::6946917852798506443::1711487075::1728519003::1::::<><>::
-menuGrid.png::CompressedTexture2D::4904072821920734483::1711487075::1728519003::1::::<><>::
-musicOff.png::CompressedTexture2D::5223057680612180196::1711487075::1728519003::1::::<><>::
-musicOn.png::CompressedTexture2D::2021010195721783118::1711487075::1728519003::1::::<><>::
-open.png::CompressedTexture2D::8160780300778801450::1711487075::1728519003::1::::<><>::
-plus.png::CompressedTexture2D::4556127217028696118::1711487075::1728519003::1::::<><>::
-save.png::CompressedTexture2D::6870828740134993632::1711487075::1728519003::1::::<><>::
-trashcan.png::CompressedTexture2D::5930419656471056000::1711487075::1728519003::1::::<><>::
-VisualNovelStyle.tres::Resource/DialogicStyle::5233519422317435867::1711487075::0::1::::<><>::uid://cqpb3ie51rwl5::::res://addons/dialogic/Modules/DefaultLayoutParts/Base_Default/default_layout_base.tscn<>uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
-::res://VisualNovel/Characters/::1728518752
-Elina.dch::Resource::-1::1711487075::0::1::::<><>::
-Leon.dch::Resource::-1::1711487075::0::1::::<><>::
-::res://VisualNovel/Menu/::1728518921
-button_click.gdshader::Shader::-1::1711487075::0::1::::<><>::
-button_click_overlay.tres::ShaderMaterial::-1::1728518921::0::1::::<><>::res://VisualNovel/Menu/button_click.gdshader
-IngameUI.gd::GDScript::-1::1711487075::0::1::::<>CanvasLayer<>::
-LoadMenu.gd::GDScript::-1::1711487075::0::1::::<>VBoxContainer<>::
-MainMenu.gd::GDScript::-1::1711487075::0::1::::<>Control<>::
-visual_novel_main.gd::GDScript::-1::1711487075::0::1::::<>Control<>::
-visual_novel_main.tscn::PackedScene::1455779774284392865::1728518921::0::1::::<><>::res://VisualNovel/Menu/visual_novel_main.gd<>res://VisualNovel/Menu/MainMenu.gd<>uid://b3va3r6l0t2lv::::res://Test/MainMenu/Assets/Fonts/Roboto/Roboto-Black.ttf<>uid://b6ojqepprixp5::::res://Test/MainMenu/Dialogic Logo.svg<>res://VisualNovel/Menu/LoadMenu.gd<>uid://cujyytc4fr37k::::res://Test/MainMenu/Assets/Fonts/Roboto/Roboto-Italic.ttf<>uid://d3dvtmfh78l5e::::res://icon.png<>res://VisualNovel/Menu/IngameUI.gd<>uid://c45jssux3bjau::::res://VisualNovel/Assets/UI/save.png<>uid://doje4hj6iiena::::res://VisualNovel/Assets/UI/open.png<>uid://cqq0e670rkfg7::::res://VisualNovel/Assets/UI/trashcan.png<>uid://b56a0qsrn74ny::::res://VisualNovel/Assets/UI/plus.png<>uid://celo081b3y7b2::::res://VisualNovel/Assets/UI/gear.png<>uid://buonhbuhq6hyr::::res://VisualNovel/Assets/UI/home.png<>uid://cb4tmlq0wiud4::::res://VisualNovel/Assets/UI/menuGrid.png<>uid://dcdnie4y6mp7w::::res://VisualNovel/Assets/UI/exit.png<>uid://dbf172yqstv2t::::res://VisualNovel/Assets/UI/cross.png<>uid://b3l55fxnjxx8c::::res://Test/MainMenu/Assets/Fonts/Roboto/Roboto-Bold.ttf
-::res://VisualNovel/Timelines/::1728518752
-vn_beginning.dtl::Resource::-1::1711487075::0::1::::<><>::
-vn_chapter1.dtl::Resource::-1::1711487075::0::1::::<><>::
-vn_ending.dtl::Resource::-1::1711487075::0::1::::<><>::

@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cgrknf35ktnup"
-path="res://.godot/imported/Roboto-ThinItalic.ttf-86e0301d90044a0e9cd4ce079b75916b.fontdata"
+path="res://.godot/imported/Roboto-ThinItalic.ttf-2d1eea8719f3b5d2b5d52cd3c2f90ed7.fontdata"
 
 [deps]
 
-source_file="res://Assets/Fonts/Roboto/Roboto-ThinItalic.ttf"
-dest_files=["res://.godot/imported/Roboto-ThinItalic.ttf-86e0301d90044a0e9cd4ce079b75916b.fontdata"]
+source_file="res://assets/fonts/roboto/Roboto-ThinItalic.ttf"
+dest_files=["res://.godot/imported/Roboto-ThinItalic.ttf-2d1eea8719f3b5d2b5d52cd3c2f90ed7.fontdata"]
 
 [params]
 

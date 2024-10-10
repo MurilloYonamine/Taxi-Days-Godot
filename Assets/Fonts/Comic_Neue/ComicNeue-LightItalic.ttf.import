@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://covq62qgffl1k"
-path="res://.godot/imported/ComicNeue-LightItalic.ttf-50a1c082c8c18aeffd134db067fef0db.fontdata"
+path="res://.godot/imported/ComicNeue-LightItalic.ttf-5b2e3fc3c8fb1a5efa5c4f2982a2586a.fontdata"
 
 [deps]
 
-source_file="res://Assets/Fonts/Comic_Neue/ComicNeue-LightItalic.ttf"
-dest_files=["res://.godot/imported/ComicNeue-LightItalic.ttf-50a1c082c8c18aeffd134db067fef0db.fontdata"]
+source_file="res://assets/fonts/comic_neue/ComicNeue-LightItalic.ttf"
+dest_files=["res://.godot/imported/ComicNeue-LightItalic.ttf-5b2e3fc3c8fb1a5efa5c4f2982a2586a.fontdata"]
 
 [params]
 
